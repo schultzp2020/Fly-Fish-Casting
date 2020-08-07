@@ -1,0 +1,4 @@
+#Ignore file types
+*/*
+*.csv
+*.py
