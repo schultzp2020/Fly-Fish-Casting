@@ -2,4 +2,6 @@
 */*
 *.csv
 *.py
+*.png
+*.gif
 .ipynb_*
