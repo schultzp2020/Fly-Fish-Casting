@@ -1,7 +1,6 @@
-#Ignore file types
+test.py
 */*
 *.csv
-*.py
 *.png
 *.gif
 *.xlsx
