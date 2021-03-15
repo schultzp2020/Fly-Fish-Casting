@@ -4,4 +4,5 @@ test.py
 *.png
 *.gif
 *.xlsx
-.ipynb_*
+*.ipynb_*
+*.code-workspace
